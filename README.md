@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Huu Phuc DINH.
-- 👀 I’m interested in Front End and Back End web-development. 
-- 🌱 I’m currently working on both Front End & Back End projects, using JavaScript/HTML/CSS and NodeJS/mySQL/sequelize.
+- 👀 I’m interested in Data Engineering career.
+- 🌱 I’m currently working on Data Engineering/Data Science projects.
 - 📫 Reach me via my email: huuphucdinh@gmail.com
 
 <!---
