@@ -1,27 +1,27 @@
 # 👋 Hi, I’m Huu Phuc DINH  
 Data Engineer based in Germany 🇩🇪.
 
-## Specializing in:
+### I'm specializing in:
 - Data pipeline architecture and orchestration (Airflow)
 - Cloud data warehousing and ETL workflows
 - Backend services for data processing systems
 - Applied machine learning experimentation
 
-## Tech Stack
+### My tech stack are:
 **Data Engineering**
 - Python • SQL • Airflow • Snowflake • AWS • Docker
 
 **Machine Learning / Computer Vision**
 - PyTorch • TensorFlow • OpenCV
 
-## About Me
+## A Little About Me ..
 - 2+ years of experience building production data pipelines in Germany 🇩🇪
 - 3 years embedded software engineering experience
 - Master's degree in Computer Science (High Integrity Systems)
 - I enjoy building production-style data systems and experimenting with machine learning applications in my free time. :) 
 
 
-## Featured Projects
+### My Featured Projects:
 **Steganography Web Service**
 - FastAPI • AWS • Docker
 - Encrypted image steganography system with REST API bult using FastAPI, supporting LSB-based encoding and decoding with AWS S3 storage integration.
@@ -36,6 +36,6 @@ Data Engineer based in Germany 🇩🇪.
 - Python • PostgreSQL • AWS
 - Automated data ingestion pipelines for sustainability reporting.
 
-## Contact
+### Please Contact Via
 - Email: huuphucdinh@gmail.com
 - LinkedIn: https://www.linkedin.com/in/huuphucdinh/ 
